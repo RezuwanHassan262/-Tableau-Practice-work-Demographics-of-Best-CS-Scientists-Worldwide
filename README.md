@@ -24,14 +24,14 @@ Here's the link to the Tableau Dashboard for the scraped data: Earthquake Data T
 
 CSV file link: [File](https://github.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Analysis/blob/main/EarthquakeData.csv)
 
-| World Rank    | National Rank  | Name              | Image URL| Affiliation  | Country	   | H-Index  | Citations | #DBLP  |
-| ------------- |:--------------:|:------------------|:--------:|:-----------:|:------------:|:-------------:|:-------------:|:----------:|	
-| 1             | 1	             | Anil K. Jain      |          |	Michigan State University	 | United States     | 201          |	247416	      | 867   |
-| 2             | 1	             | Yoshua Bengio     |April     | University of Montreal	   | Canada          | 197          |	637950         | 715           |
-| 3             | 2              | Jiawei Han        |October   | University of Illinois at Urbana-Champaign	       | United States        | 184	        | 205519	        | 993	|
-| 4	            | 1	             | Andrew Zisserman  |August	  | University of Oxford	     | United Kingdom        | 175	      | 301948	      |596	|
-| 5             | 3	             | Michael I. Jordan |August	  | University of California	 | United Kingdom        | 164          | 201905          | 612|
-| 6             | 5	             | Thomas S. Huang   |June      | University of Illinois at Urbana-Champaign         | United States         | 163          | 118676          | 1068 |
+| World Rank    | National Rank  | Name              |  Affiliation  | Country	   | H-Index  | Citations | #DBLP  |
+| ------------- |:--------------:|:------------------|:-----------:|:------------:|:-------------:|:-------------:|:----------:|	
+| 1             | 1	             | Anil K. Jain      | Michigan State University	 | United States     | 201          |	247416	      | 867   |
+| 2             | 1	             | Yoshua Bengio     | University of Montreal	   | Canada          | 197          |	637950         | 715           |
+| 3             | 2              | Jiawei Han        | University of Illinois at Urbana-Champaign	       | United States        | 184	        | 205519	        | 993	|
+| 4	            | 1	             | Andrew Zisserman  | University of Oxford	     | United Kingdom        | 175	      | 301948	      |596	|
+| 5             | 3	             | Michael I. Jordan | University of California	 | United Kingdom        | 164          | 201905          | 612|
+| 6             | 5	             | Thomas S. Huang   | University of Illinois at Urbana-Champaign         | United States         | 163          | 118676          | 1068 |
 
 ## Findings and Observations from the Dashboard
 
