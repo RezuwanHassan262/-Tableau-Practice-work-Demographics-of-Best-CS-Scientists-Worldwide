@@ -1,4 +1,4 @@
-# Tableau-Practice-work-Demographics-of-Best-CS-Scientists-Worldwide
+# Tableau Practice work Demographics of Best CS Scientists Worldwide
 In this practice project, I did some data analysis on the best CS scientists from all over the world & visualized them on Tableau 
 
 
