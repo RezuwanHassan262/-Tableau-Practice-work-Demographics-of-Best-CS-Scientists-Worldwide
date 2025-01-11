@@ -22,7 +22,7 @@ Here's the link to the Tableau Dashboard for the scraped data: Earthquake Data T
 
 ## CSV File (Data Example):
 
-CSV file link: [File](https://github.com/RezuwanHassan262/Last-100-plus-years-Earthquake-Data-Analysis/blob/main/EarthquakeData.csv)
+CSV file link: [File](https://github.com/RezuwanHassan262/Tableau-Practice-work-Demographics-of-Best-CS-Scientists-Worldwide/blob/main/best_cs_scientist_details.csv)
 
 | World Rank    | National Rank  | Name              |  Affiliation  | Country	   | H-Index  | Citations | #DBLP  |
 | ------------- |:--------------:|:------------------|:-----------:|:------------:|:-------------:|:-------------:|:----------:|	
